@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Uzair khan</h1>
-<h3 align="center">A passionate Full stack developer from Pakistan</h3>
-<img align="right"  alt="Coding" 
-      width="400" 
-      src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" 
-      style="border-radius: 20px; margin-top: 60px;" 
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Uzair%20Khan&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20AI%20Engineer%20|%20Generative%20AI%20and%20Automation%20Specialist&descAlignY=55&descAlign=50&descSize=20" alt="header banner" width="100%" />
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uzairkhan313&label=Profile%20views&color=0e75b6&style=flat" alt="uzairkhan313" /> </p>
+
+
 
 # 💫 About Me:
 
--🌱 I’m currently sharpening my skills in MERN Stack and Next.js to build even more dynamic and efficient applications.<br>-💬 Feel free to ask me about React, Node.js, MongoDB, and Express.js Next js—I’m always excited to chat about these technologies!<br>-📫 Reach out to me at uzairkhaan2003@gmail.com for any inquiries or collaboration opportunities
+<img align="right" alt="Coding" width="280" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="border: none; background-color: transparent; margin-top: 10px;" />
+
+🌱 I am a passionate Full Stack Developer and AI Engineer with expertise in building modern, scalable, and intelligent digital solutions. My technical skill set spans across HTML, CSS, JavaScript, TypeScript, and Python, enabling me to develop robust applications from concept to deployment. On the frontend, I specialize in React.js and Next.js, creating responsive, high-performance, and user-friendly interfaces. On the backend, I leverage Node.js, Express.js, and FastAPI to build secure, scalable, and efficient APIs and server-side architectures. Additionally, I have hands-on experience with OpenAI technologies, AI integration, Generative AI, and AI automation, allowing me to develop smart, AI-powered applications that automate processes, enhance productivity, and deliver innovative user experiences.
 
 ## 🌐 Contact me:
 
